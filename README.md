@@ -35,27 +35,27 @@ python spam_sms_detection.py
 
 2. Training of 3 classifiers:
 
-Logistic Regression
+   Logistic Regression
 
-Naive Bayes
+   Naive Bayes
 
-SVM (LinearSVC)
+   SVM (LinearSVC)
 
 3. Evaluation using:
 
-Accuracy
+   Accuracy
 
-Confusion Matrix
+   Confusion Matrix
 
-Classification Report
+   Classification Report
 
 4. Visualization of:
 
-Model accuracy comparison (bar chart)
+   Model accuracy comparison (bar chart)
 
-Confusion matrix heatmaps
+   Confusion matrix heatmaps
 
-4. Prediction of a custom sample SMS message
+5. Prediction of a custom sample SMS message
 
 ## 📊 Sample Output
 Logistic Regression Accuracy: 0.982

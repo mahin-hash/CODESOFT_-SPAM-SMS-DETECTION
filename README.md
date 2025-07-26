@@ -63,6 +63,7 @@ Naive Bayes Accuracy: 0.965
 SVM Accuracy: 0.984
 📩 Sample Message:
 "Congratulations! You've won a $1000 Walmart gift card. Call now!"
+
 → Predicted as Spam by all models.
 
 ## 📌 Folder Structure
